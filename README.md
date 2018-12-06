@@ -1,5 +1,7 @@
 # LearnGit
-提交commit后
+记录常用的git 操作
+=======================================================================
+1、提交commit后
 git fetch
 git rebase origin/master    
 git push origin HEAD:refs/for/master
